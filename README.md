@@ -36,6 +36,12 @@ The project is live and can be accessed from the following URL: [https://landing
 
 ---
 
+## `Responsive Design Preview`
+
+![Alt text](img/Ads%C4%B1z.png)
+
+---
+
 ## `Screen`
 
 ![screenshot](img/img.png)
